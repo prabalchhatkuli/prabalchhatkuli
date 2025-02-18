@@ -1,7 +1,5 @@
-# Hi, I'm Prabal! 👋
-
 ## 💻 About Me
-Master’s student in Computer Science with experience in software engineering, distributed systems, and data engineering. Passionate about scalable solutions and data-driven insights.
+Software engineer with expertise in distributed systems, data engineering, and cloud computing. Passionate about building scalable solutions and leveraging data-driven insights.. Passionate about scalable solutions and data-driven insights.
 
 ## 🚀 Skills
 - **Programming:** Python, Java, Go, SQL, JavaScript
