@@ -1,4 +1,23 @@
-## Hi there 👋
+# Hi, I'm Prabal! 👋
+
+## 💻 About Me
+Master’s student in Computer Science with experience in software engineering, distributed systems, and data engineering. Passionate about scalable solutions and data-driven insights.
+
+## 🚀 Skills
+- **Programming:** Python, Java, Go, SQL, JavaScript
+- **Frontend:** React, React Native
+- **Distributed Systems:** gRPC, Protobuf, Kafka, RabbitMQ
+- **Data Engineering:** Pandas, NumPy, SQL, ETL Pipelines with Apache Airflow
+- **Machine Learning & AI:** PyTorch
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, API Development
+
+## 📌 Projects
+- From scalable systems to AI, Frontend to cloud computing—there’s always something exciting happening here! 🚀
+- Currently working on implementing Microservices and Kubernetes operators with [Golang](https://go.dev/)
+
+## 📫 Connect
+- **LinkedIn:** [linkedin.com/in/prabalchhatkuli](#)
+
 
 <!--
 **prabalchhatkuli/prabalchhatkuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
