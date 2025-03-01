@@ -11,7 +11,7 @@ Software engineer with expertise in distributed systems, data engineering, and c
 
 ## 📌 Projects
 - From scalable systems to AI, Frontend to cloud computing—there’s always something exciting happening here! 🚀
-- Currently working on implementing Microservices and Kubernetes operators with [Golang](https://go.dev/)
+- Currently working on implementing RAG on LLAVA model + Microservices and Kubernetes operators with [Golang](https://go.dev/)
 
 ## 📫 Connect
 - **LinkedIn:** [linkedin.com/in/prabalchhatkuli](#)
